@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **HTML, CSS, Java Script**
 
-- 📫 How to reach me **Hmm... maybe this email will help: mw.animacja@gmail.com**
+- 📫 How to reach me? **Hmm... maybe this email will help: mw.animacja@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
