@@ -1,4 +1,5 @@
-[![MasterHead](https://images.squarespace-cdn.com/content/v1/5a6d5fb4f6576ebde0e6b5c3/1634316918767-1UCHB8XROJPYO6TP2GOM/city+banner.png?format=2500w)]
+
+![AdobeStock_591294256](https://github.com/Sparrow-90/Sparrow-90/assets/124800004/9f392b32-5763-419b-bdea-87f4eca19d60)
 
 <h1 align="center">Hi 👋, I'm Mateusz</h1>
 <h3 align="center"> I am interested in learning new things that will allow me to express myself creatively</h3>
