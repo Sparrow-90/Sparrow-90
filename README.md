@@ -2,8 +2,8 @@
 ![AdobeStock_591294256](https://github.com/Sparrow-90/Sparrow-90/assets/124800004/9f392b32-5763-419b-bdea-87f4eca19d60)
 
 <h1 align="center">Hi 👋, I'm Mateusz</h1>
-<h3 align="center"> I am interested in learning new things that will allow me to express myself creatively</h3>
-<img align="right" alt="coding" width="400" src="https://github.com/Sparrow-90/Sparrow-90/assets/124800004/0d04671b-9566-4dbb-a8bb-b4ced056d6fa">
+<h2 align="center"> I am interested in learning new things that will allow me to express myself creatively</h2>
+<img align="right" alt="coding" width="350" src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif">
 
 - 🔭 I’m currently working on **my own portfolio project**
 
